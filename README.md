@@ -1,17 +1,17 @@
 ### Разумов Александр
 
-#### Java - разработчик
+- #### Java - разработчик
 
-#### Управление подразделениями
+- #### Управление подразделениями
 
-#### Инженер-связист
+- #### Инженер-связист
 
 ###### Sankt-Peterburg 🌍 +7(900)655-85-66 📱
 
-###### [GITHUB 💼](https://github.com/Razum4e) Razum.ya@ya.ru 📧 [VK.com 🌐](https://vk.com/id.razum)
+###### [Github.com 💼](https://github.com/Razum4e) Razum.ya@ya.ru 📧 [Vk.com 🌐](https://vk.com/id.razum)
 
 <!-- Фото -->
-<p><img src="img/photo.jpg" alt="" width="200" height="265" /></p>
+<p><img src="img/photo.jpg" alt="" width="270" height="344" /></p>
 
 <!-- Таблица -->
 <table style="border-collapse: collapse; width: 100%; height: 111px;" border="1">
