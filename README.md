@@ -51,7 +51,13 @@
 <li>Основы алгоритмов</li>
 <li>Java Core</li>
 <li>Maven/Gradle</li>
-<li>и т.д.</li>
+<li>CSV, XML, JSON</li>
+<li>Unit-тесты, Mockito</li>
+<li>OSI, TCP, UDP, HTTP</li>
+<li>JVM</li>
+<li>Pattern</li>
+<li>Magics, DRY, SOLID</li>
+<li>Основы Adobe Photoshop</li>
 </ul>
 <hr />
 <ul>
@@ -62,7 +68,6 @@
 <li>Сети связи и системы коммутации</li>
 <li>Управление подразделениями</li>
 <li>Работа на средствах связи</li>
-<li>и т.д.</li>
 </ul>
 </td>
 </tr>
@@ -78,7 +83,6 @@
 <li>Упорство</li>
 <li>Умение работать в команде</li>
 <li>Аналитический склад ума</li>
-<li>и т.д.</li>
 </ul>
 </td>
 </tr>
@@ -92,7 +96,7 @@
 <li>Frontend/Backend разработка</li>
 <li>Семья</li>
 <li>Автомобильное дело</li>
-<li>и т.д.</li>
+<li>Спорт</li>
 </ul>
 </td>
 </tr>
